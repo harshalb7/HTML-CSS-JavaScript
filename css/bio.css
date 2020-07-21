@@ -1,0 +1,32 @@
+header{
+	text-align: center;
+	background-color: #16F0E1;
+	text-transform: capitalize;
+	color: #979A9A ;
+	height: 60px;
+	line-height: 60px;
+}
+
+#imp{
+	background-color: #16F0E1;
+	height: 685px;
+	width: 400px;
+}
+
+.profile{
+	border: 5px solid black;
+	margin-left: 50px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+img{
+	height: 250px;
+	width: 250px;
+
+}
+.info{
+	text-align: center; 
+}
+.link{
+	align-content: center;
+}
